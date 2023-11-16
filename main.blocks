@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="a0fPv9nTcfT-.~$[C6j}" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_number" id="ZygG+vi0Fdgb)4i_0)~V"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id="^p#hysRd[0pGHToD_T*c"></block></value></block></statement></block><block type="device_forever" id="7.@@.cWD*JKUiY5?@g_*" x="381" y="45"><statement name="HANDLER"><block type="basic_show_icon" id="T9DZKb:*plhF^?E1!omW"><field name="i">IconNames.Happy</field></block></statement></block><block type="pxt-on-start" id="YZdAy[a#zF(ly6=b8ynu" x="48" y="124"><statement name="HANDLER"><block type="device_print_message" id="A5RVj4#/6ByV~X9.V(#S"><value name="text"><shadow type="text" id="hur4*xcROn{-l]tV,?[F"><field name="TEXT">HOI</field></shadow></value><next><block type="device_show_leds" id="E5S(I=uz]=jYV|u-?@Ie"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="3]8*NL8W0fGK.kdV$73["><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id=".436j/9]r}|*PBI+WYls"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="YX%{@2cunhD?-YfOz/Sf"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="bsb+p)upIY1gt=Javd`f"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="SQ*+$V[hF=.J,/4`P0B3" x="324" y="220"><field name="NAME">Gesture.EightG</field><statement name="HANDLER"><block type="device_print_message" id="~=EH?PGF+T)Q67fZ#o6T"><value name="text"><shadow type="text" id="_avx){vnG`V`$]SO.EsP"><field name="TEXT">AUW</field></shadow></value></block></statement></block></xml>
